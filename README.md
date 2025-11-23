@@ -10,11 +10,12 @@ Busco uma oportunidade de estágio para aplicar e aprofundar meus conhecimentos.
 ## Principais Certificações
 Aqui estão alguns cursos relevantes que concluí e que fortalecem minha base em IA, cloud e boas práticas:
 
-- **AI Prompt Engineering for Developers – Google Cloud Skills Boost**  
-- **Introduction to Generative AI – Google Cloud Skills Boost**  
-- **Introduction to Large Language Models – Google Cloud Skills Boost**  
+- **Google Cloud: Prompt Engineering Guide – Google Cloud Skills Boost**  
+- **Introduction to Artificial Intelligence - IBM SkillsBuild**  
+- ** Introduction to Generative AI Art of the Possible (Português) - AWS Training and Certification**  
 
-*(Você pode inserir os links públicos dos certificados aqui quando quiser.)*
+*(https://www.skills.google/profile/badges)*
+*(AWS)*
 
 ---
 
@@ -79,8 +80,7 @@ Meu foco atual é evoluir nas seguintes áreas:
 
 ## Tecnologias e Ferramentas
 - Python  
-- Git & GitHub  
-- Google Cloud Skills Boost  
+- Git & GitHub    
 - Scikit-learn  
 - Jupyter Notebook  
 - Ferramentas de IA generativa  
