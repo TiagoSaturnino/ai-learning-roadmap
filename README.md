@@ -1,10 +1,6 @@
 # ai-learning-roadmap
 
-# Meu Portfólio Next Gen AI – 2025  
-Repositório criado para demonstrar meus projetos, estudos e evolução em IA, programação e engenharia de software. Este portfólio foi estruturado para destacar minhas habilidades de forma clara, objetiva e profissional — especialmente para processos seletivos como o **Next Gen AI Edition 2025**.
-
----
-
+# Meu Portfólio 
 ## Sobre mim
 Sou estudante de **Engenharia de Telecomunicações (IFCE)**, interessado em Inteligência Artificial, automação, redes de computadores e desenvolvimento de software.  
 Busco uma oportunidade de estágio para aplicar e aprofundar meus conhecimentos.
