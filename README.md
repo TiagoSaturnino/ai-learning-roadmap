@@ -1,17 +1,17 @@
 # ai-learning-roadmap
 
-# 🚀 Meu Portfólio Next Gen AI – 2025  
+# Meu Portfólio Next Gen AI – 2025  
 Repositório criado para demonstrar meus projetos, estudos e evolução em IA, programação e engenharia de software. Este portfólio foi estruturado para destacar minhas habilidades de forma clara, objetiva e profissional — especialmente para processos seletivos como o **Next Gen AI Edition 2025**.
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 Sou estudante de **Engenharia de Telecomunicações (IFCE)**, interessado em Inteligência Artificial, automação, redes de computadores e desenvolvimento de software.  
 Busco uma oportunidade de estágio para aplicar e aprofundar meus conhecimentos.
 
 ---
 
-## 📚 Principais Certificações
+## Principais Certificações
 Aqui estão alguns cursos relevantes que concluí e que fortalecem minha base em IA, cloud e boas práticas:
 
 - **AI Prompt Engineering for Developers – Google Cloud Skills Boost**  
@@ -22,7 +22,7 @@ Aqui estão alguns cursos relevantes que concluí e que fortalecem minha base em
 
 ---
 
-## 📂 Projetos do Repositório
+## Projetos do Repositório
 
 ### 🔹 1. **Projeto: Meu Primeiro LLM Prompt System**
 Demonstra o uso de prompts estruturados para resolver problemas com LLMs de forma sistemática.  
@@ -61,7 +61,7 @@ Projeto introdutório de machine learning usando Python:
 
 ---
 
-## 📊 Roadmap de Aprendizado 2025
+## Roadmap de Aprendizado 2025
 Meu foco atual é evoluir nas seguintes áreas:
 
 ### 🔸 Inteligência Artificial & Data Science
@@ -81,7 +81,7 @@ Meu foco atual é evoluir nas seguintes áreas:
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 - Python  
 - Git & GitHub  
 - Google Cloud Skills Boost  
@@ -91,9 +91,9 @@ Meu foco atual é evoluir nas seguintes áreas:
 
 ---
 
-## 📫 Contato
+## Contato
 📧 **tiago.freire.saturnino07@aluno.ifce.edu.br**  
-💼 *LinkedIn (adicione quando criar)*  
+💼 *LinkedIn (https://www.linkedin.com/in/tiagosaturnino/)*  
 
 ---
 
