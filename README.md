@@ -1,14 +1,102 @@
 # ai-learning-roadmap
 
-AI Learning Roadmap — Meu Progresso em Inteligência Artificial
-Estudante: Tiago Freire Saturnino
-Bem-vindo ao meu repositório de estudos em Inteligência Artificial, IA Generativa, LLMs e Engenharia de Prompt.
-Aqui registro meus aprendizados, certificados, notas técnicas e pequenos experimentos práticos enquanto me preparo para atuar profissionalmente na área, com foco na área de IA.
+# 🚀 Meu Portfólio Next Gen AI – 2025  
+Repositório criado para demonstrar meus projetos, estudos e evolução em IA, programação e engenharia de software. Este portfólio foi estruturado para destacar minhas habilidades de forma clara, objetiva e profissional — especialmente para processos seletivos como o **Next Gen AI Edition 2025**.
 
-Este repositório serve como:
+---
 
-- Meu caderno técnico de IA
-- Evidência do meu processo de aprendizagem contínua
-- Central de certificados e anotações
-- Base para projetos futuros em IA generativa
-- Preparação para oportunidades em tecnologia
+## 🧑‍💻 Sobre mim
+Sou estudante de **Engenharia de Telecomunicações (IFCE)**, interessado em Inteligência Artificial, automação, redes de computadores e desenvolvimento de software.  
+Busco uma oportunidade de estágio para aplicar e aprofundar meus conhecimentos.
+
+---
+
+## 📚 Principais Certificações
+Aqui estão alguns cursos relevantes que concluí e que fortalecem minha base em IA, cloud e boas práticas:
+
+- **AI Prompt Engineering for Developers – Google Cloud Skills Boost**  
+- **Introduction to Generative AI – Google Cloud Skills Boost**  
+- **Introduction to Large Language Models – Google Cloud Skills Boost**  
+
+*(Você pode inserir os links públicos dos certificados aqui quando quiser.)*
+
+---
+
+## 📂 Projetos do Repositório
+
+### 🔹 1. **Projeto: Meu Primeiro LLM Prompt System**
+Demonstra o uso de prompts estruturados para resolver problemas com LLMs de forma sistemática.  
+Inclui:
+- Prompt system + persona
+- Prompt de análise e decomposição
+- Prompt de verificação e correção  
+- Exemplos de entradas e saídas  
+- Casos de teste
+
+📁 Pasta: `/prompt_system/`  
+📄 Arquivo principal: `prompt-system.md`
+
+---
+
+### 🔹 2. **Projeto: Automação com Python + IA**
+Um script simples utilizando Python e uma API de IA para automatizar tarefas repetitivas, como:
+- Resumo de textos
+- Classificação
+- Explicações passo a passo
+- Conversão de formato (JSON → texto, etc.)
+
+📁 Pasta: `/automacao_ia/`  
+📄 Arquivo principal: `main.py`
+
+---
+
+### 🔹 3. **Projeto: Meu Primeiro Modelo de Classificação (Scikit-learn)**
+Projeto introdutório de machine learning usando Python:
+- Treinamento de modelo básico (Decision Tree ou Logistic Regression)
+- Gráfico de acurácia
+- Avaliação com matriz de confusão
+
+📁 Pasta: `/ml_basico/`  
+📄 Arquivo principal: `modelo.ipynb`
+
+---
+
+## 📊 Roadmap de Aprendizado 2025
+Meu foco atual é evoluir nas seguintes áreas:
+
+### 🔸 Inteligência Artificial & Data Science
+- Fundamentos de ML (scikit-learn)
+- Projetos maiores de classificação e regressão
+- Prompt chaining e automações inteligentes
+
+### 🔸 Desenvolvimento
+- Git e GitHub (versionamento, branching, colaboração)  
+- Python intermediário  
+- Boas práticas de documentação
+
+### 🔸 Cloud
+- Conceitos básicos de Google Cloud  
+- Deploy de modelos simples  
+- Automação com APIs
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+- Python  
+- Git & GitHub  
+- Google Cloud Skills Boost  
+- Scikit-learn  
+- Jupyter Notebook  
+- Ferramentas de IA generativa  
+
+---
+
+## 📫 Contato
+📧 **tiago.freire.saturnino07@aluno.ifce.edu.br**  
+💼 *LinkedIn (adicione quando criar)*  
+
+---
+
+## 📎 Licença
+Este repositório está licenciado sob a licença MIT.
+
