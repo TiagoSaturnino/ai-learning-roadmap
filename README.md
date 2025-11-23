@@ -93,10 +93,7 @@ Meu foco atual é evoluir nas seguintes áreas:
 
 ## Contato
 📧 **tiago.freire.saturnino07@aluno.ifce.edu.br**  
-💼 *LinkedIn (https://www.linkedin.com/in/tiagosaturnino/)*  
+💼 *LinkedIn: https://www.linkedin.com/in/tiagosaturnino/*  
 
----
 
-## 📎 Licença
-Este repositório está licenciado sob a licença MIT.
 
